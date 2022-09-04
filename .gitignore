@@ -1,0 +1,10 @@
+smartdata_v35.pdf
+Анонсы.txt
+План воркшопа.txt
+python_result
+python_result/*
+anaconda/*
+notebooks/*
+presentation/*
+python_result/*
+/docker-compose.yml
