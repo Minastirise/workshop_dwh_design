@@ -22,5 +22,7 @@ LOG:  database system is ready to accept connections
 - Проверьте, что данные в базу dev_stg загрузились успешно (должно быть 186):  
 select count(*) from dev_stg.dns_2022  
   
-## Для завершения работы в терминале выполнить следующую команду из нового терминала из папки ./postgres
-docker-compose down --remove-orphans --volumes
+## Для завершения работы 
+- В новом окне терминала перейти в папку ./postgres
+- Выполнить следующую команду из нового терминала
+docker-compose down --remove-orphans --volumes  
