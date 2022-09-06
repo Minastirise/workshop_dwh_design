@@ -17,7 +17,7 @@ LOG:  database system is ready to accept connections
 Порт: 5430  
 База данных: test  
 Пользователь: postgres  
-Пароль: postgres  
+Пароль: password  
   
 - Проверьте, что данные в базу dev_stg загрузились успешно (должно быть 186):  
 select count(*) from dev_stg.dns_2022  
