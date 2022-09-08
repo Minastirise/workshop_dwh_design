@@ -5,7 +5,6 @@ python_result
 python_result/*
 anaconda/*
 notebooks/*
-presentation/*
 python_result/*
 /docker-compose.yml
 input_data/json
