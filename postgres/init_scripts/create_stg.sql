@@ -1,7 +1,7 @@
 create schema dev_stg;
 
 create table dev_stg.plan_2022 (
-month_ int,
+Plan_date date,
 Sales_point	varchar(50),
 Product varchar(50),
 Price decimal(10,2),
