@@ -11,5 +11,4 @@ input_data/json
 input_data/cert
 solution_team_1/*
 solution_team_2/*
-presentation/*
 .DS_Store
